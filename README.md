@@ -4,8 +4,7 @@ I'm currently working on a 3d multiplayer game design.<br>I'm looking to work on
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/p7EcZ3Tz8K) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamchaturvedi64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-chaturvedi-891193210) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shivam-Chaturvedi-107) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Icy-Bug-8203) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15706350) 
-(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Microsoft&logoColor=white)](https://instagram.com/shivamchaturvedi64) [![LinkedIn]
-<a href=""><img src="https://imgs.search.brave.com/nSZaIwPYwByRQmbHL2mlhCxa5V3D84A2FmWwovi7dVc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/RGZkVnpBbDFMRzZ3/QWoyVkJCT21nSGFI/YSZwaWQ9QXBp" width="50px"/>Microsoft</a>
+<a href=""><img src="https://imgs.search.brave.com/nSZaIwPYwByRQmbHL2mlhCxa5V3D84A2FmWwovi7dVc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/RGZkVnpBbDFMRzZ3/QWoyVkJCT21nSGFI/YSZwaWQ9QXBp" width="20px"/></a>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
