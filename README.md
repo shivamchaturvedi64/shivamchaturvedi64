@@ -8,7 +8,7 @@ I'm currently working on a 3d multiplayer game design.<br>I'm looking to work on
 # Learning Paths:
 [![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/shivamchaturvedi-0563/)
 [![Unity3d](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)](https://learn.unity.com/u/5e8b1255edbc2a6807a04ccf?tab=profile)
-[![GoogleDev](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://developers.google.com/profile/u/102397193280792050882)
+[![GoogleDev](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/shivamchaturvedi64)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
