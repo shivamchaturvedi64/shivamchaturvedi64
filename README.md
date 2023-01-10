@@ -5,7 +5,7 @@ I'm currently working on a 3d multiplayer game design.<br>I'm looking to work on
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/p7EcZ3Tz8K) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamchaturvedi64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-chaturvedi-891193210) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shivam-Chaturvedi-107) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Icy-Bug-8203) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15706350) 
 
-# Learning Paths:
+# 👨‍💻 Learning Paths:
 [![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/shivamchaturvedi-0563/)
 [![Unity3d](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)](https://learn.unity.com/u/5e8b1255edbc2a6807a04ccf?tab=profile)
 [![GoogleDev](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/shivamchaturvedi64)
