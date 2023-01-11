@@ -15,7 +15,7 @@ I'm currently working on a 3d multiplayer game design.<br>I'm looking to work on
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivamchaturvedi64&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivamchaturvedi64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaturvedi64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaturvedi64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivamchaturvedi64&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
