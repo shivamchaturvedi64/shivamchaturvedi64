@@ -13,7 +13,7 @@ I'm currently working on a 3d multiplayer game design.<br>I'm looking to work on
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 # 📊 GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamchaturvedi64)]<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamchaturvedi64)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivamchaturvedi64&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaturvedi64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
